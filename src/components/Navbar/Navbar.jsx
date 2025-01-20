@@ -5,7 +5,7 @@ import { getImageUrl } from '../../utils'
 const Navbar = () => {
   return (
     <nav className={styles.Navbar}>
-        Navbar sample
+        Crypto Vicecity Nav
         {/* <img src={getImageUrl("/")} /> */}
     </nav>
   )
